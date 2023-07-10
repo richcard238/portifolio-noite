@@ -1,0 +1,8 @@
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\bin\Debug\caculadoraFlavio.exe.config
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\bin\Debug\caculadoraFlavio.exe
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\bin\Debug\caculadoraFlavio.pdb
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\obj\Debug\caculadoraFlavio.csproj.AssemblyReference.cache
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\obj\Debug\caculadoraFlavio.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\obj\Debug\caculadoraFlavio.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\obj\Debug\caculadoraFlavio.exe
+C:\Users\jogos\Cauculadora richard\caculadoraFlavio\obj\Debug\caculadoraFlavio.pdb
